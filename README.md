@@ -2,3 +2,6 @@
 New PS4 Jailbreak file for 6.72 by Sleirsgoevy
 
 ![capture](https://github.com/chronoss09/sleirsgoevy672/blob/main/20211030225234.jpg)
+
+__v2 --> add a counter__  
+![capture](https://github.com/chronoss09/sleirsgoevy672/blob/main/20211101133926.jpg)
