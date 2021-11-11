@@ -4,12 +4,13 @@ CACHE:
 back.png
 fakeusb.js
 ftp.js
-goldhen_1.1.js
+goldhen.js
+hen.js
 index.html
 jb.js
 netcat.js
+orbis.js
 payload.html
-ps4-hen-vtx.js
 common\exploit.js
 common\helpers.js
 common\malloc.js
@@ -25,10 +26,13 @@ images\linux_3.png
 images\mira.png
 images\netcat.png
 images\netcatL.png
+images\orbis.png
 linux\1gb.js
 linux\3gb.js
 mira\mira.js
 mira\mira2.js
+Webkit_9.0\here.png
+Webkit_9.0\index.html
 
 NETWORK: 
 * 
